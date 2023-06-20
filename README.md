@@ -1,6 +1,5 @@
-# GESTION-DE-NOTES-D-UNE-CLASSE-
-
 # GESTION-DE-NOTES-D-UNE-CLASSE
+
 Le mini projet à gérer les notes d'une classe en implementant les fonctionnalités el les traitements qui seront appelés à travers les menus suivants:
 
 Menu Principal:
